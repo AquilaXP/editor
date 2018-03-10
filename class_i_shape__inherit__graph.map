@@ -1,0 +1,5 @@
+<map id="IShape" name="IShape">
+<area shape="rect" id="node2" href="$class_circile.html" title="Circile" alt="" coords="5,80,63,107"/>
+<area shape="rect" id="node3" href="$class_image.html" title="Image" alt="" coords="88,80,145,107"/>
+<area shape="rect" id="node4" href="$class_square.html" title="Square" alt="" coords="171,80,233,107"/>
+</map>

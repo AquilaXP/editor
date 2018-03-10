@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_editor.html#a6f0f669cd8e5a511c9fdf9c9e2531180" title="Editor::new_document" alt="" coords="111,5,263,32"/>
+<area shape="rect" id="node3" href="$class_editor.html#a090b73e3dbfa226bf91502c581ba6bc8" title="Editor::add_shape" alt="" coords="123,56,250,83"/>
+<area shape="rect" id="node6" href="$class_editor.html#a8ad4c1ee8e3d04a56bc14cf2adb01b54" title="Editor::remove_shape" alt="" coords="112,107,261,133"/>
+<area shape="rect" id="node7" href="$class_editor.html#ad50b42519c4c5a3236ba39b0a846c2fe" title="Editor::export_document" alt="" coords="105,157,269,184"/>
+<area shape="rect" id="node9" href="$class_editor.html#a2d46448c6aa086b49c0d709911f03ab2" title="Editor::import_document" alt="" coords="105,208,269,235"/>
+<area shape="rect" id="node4" href="$_i_shape_8h.html#a01536ba45c2a9584d13d4df06623febd" title="CreateShape" alt="" coords="317,56,416,83"/>
+<area shape="rect" id="node5" href="$_i_shape_8h.html#ad392fa69ecf78f82ec5ddd199a520dce" title="Генератор уникальных имен " alt="" coords="465,56,570,83"/>
+<area shape="rect" id="node8" href="$_i_format_8h.html#a542a087a06c9d125a9281f56a8e70da0" title="Создание класса для работы с форматом " alt="" coords="325,183,409,209"/>
+</map>
