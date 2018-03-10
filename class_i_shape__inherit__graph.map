@@ -1,5 +1,5 @@
 <map id="IShape" name="IShape">
-<area shape="rect" id="node2" href="$class_circile.html" title="Circile" alt="" coords="5,80,63,107"/>
-<area shape="rect" id="node3" href="$class_image.html" title="Image" alt="" coords="88,80,145,107"/>
-<area shape="rect" id="node4" href="$class_square.html" title="Square" alt="" coords="171,80,233,107"/>
+<area shape="rect" id="node2" href="$class_circile.html" title="{Circile\n||+ GetTypeShape()\l}" alt="" coords="5,176,133,253"/>
+<area shape="rect" id="node3" href="$class_image.html" title="{Image\n||+ GetTypeShape()\l}" alt="" coords="158,176,287,253"/>
+<area shape="rect" id="node4" href="$class_square.html" title="{Square\n||+ GetTypeShape()\l}" alt="" coords="311,176,440,253"/>
 </map>
