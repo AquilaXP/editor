@@ -45,8 +45,8 @@ public:
 std::unique_ptr<IFormat> GetFormat( const std::string& format )
 {
     if( format == "ai" )
-        return std::make_unique<FormatAI>();
+        return std::unique_ptr<FormatAI>( new FormatAI );
     else if( format == "dxf" )
-        return std::make_unique<FormatDXF>();
+        return std::unique_ptr<FormatDXF>( new FormatDXF );
     return nullptr;
 }
